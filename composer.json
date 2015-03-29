@@ -1,0 +1,11 @@
+{
+    "name": "lizardhq/php_bcrypt_aes",
+    "description": "PHP implementation of bcrypt wrapped in AES",
+    "license": "WTFPL",
+    "keywords": ["password", "cryptography", "security", "hashing", "bcrypt", "AES"],
+    "require": {
+        "php": ">= 5.4.0",
+        "ircmaxell/password-compat": "~1.0",
+        "defuse/php-encryption": "~1.2"
+    }
+}
